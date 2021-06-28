@@ -1,1 +1,7 @@
-# Reading-notes
+#Growth Mindset Notes
+
+##Heading
+Notes
+
+##subheading
+Notes
