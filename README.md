@@ -21,6 +21,6 @@ https://github.com/Sanbikaa
 
 - Used five different types of markdown
 
-- Didn't get strikethrough to work
+- Got strikethrough to work
 
 - Everything else...**DONE!**
