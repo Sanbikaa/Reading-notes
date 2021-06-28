@@ -10,7 +10,7 @@ and hard work.
 
 *About me*
 
-~~I was told to use five different types of markdown so imma have some fun. ~~
+~~I was told to use five different types of markdown so imma have some fun.~~
 
 My name is Justin Williams I'm 20 years old and I'm a student a Full Sail University, studying Sound Design.
 I also make music and sound effects for varies projects such as: indie games and bands. I look forward to getting to know you
