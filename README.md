@@ -17,7 +17,7 @@ I also make music and sound effects for varies projects such as: indie games and
 all! 🤩
 
 ### Links(W.I.P)
-https://github.com/Sanbikaa
+[My Profile](https://github.com/Sanbikaa)
 
 - Used five different types of markdown
 
