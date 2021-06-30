@@ -6,7 +6,8 @@ and hard work.
 ## 3 Ways I keep myself in a growth mindset
 1. Remind myself that anything can be done if you work hard enough for it
 2. If you want to give up, step back and think about it from a diffrent point of view
-3. Embrace challenges, not aviod them.
+3. Embrace challenges, not aviod them.             
+4. Stay determined no matter how hard it gets. 
 
 *About me*
 
