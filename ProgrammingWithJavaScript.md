@@ -40,3 +40,20 @@
 - let y = 2;
 
 - let z = x + y;
+
+- The multiplication operator (*) multiplies numbers.
+
+- Example: let x = 5;
+
+- let y = 2;
+
+- let z = x * y;
+
+- Arithmetic operators are used to perform arithmetic on numbers:
+
+- Example: ![Screenshot 2021-07-01 101013](https://user-images.githubusercontent.com/86576588/124147706-8cd7e800-da54-11eb-8a9c-274fd1749fd9.png)
+
+- Assignment operators assign values to JavaScript variables.
+
+- Example: ![Screenshot 2021-07-01 101109](https://user-images.githubusercontent.com/86576588/124147831-abd67a00-da54-11eb-8c08-2188e87cac0c.png)
+
