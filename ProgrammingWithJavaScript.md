@@ -57,3 +57,12 @@
 
 - Example: ![Screenshot 2021-07-01 101109](https://user-images.githubusercontent.com/86576588/124147831-abd67a00-da54-11eb-8c08-2188e87cac0c.png)
 
+#### Control flow
+
+- The control flow is the order in which the computer executes statements in a script.
+
+- For example, imagine a script used to validate user data from a webpage form. The script submits validated data, but if the user, say, leaves a required field empty, the script prompts them to fill it in. To do this, the script uses a conditional structure or if...else, so that different code executes depending on whether the form is complete or not:
+
+- Example: ![Screenshot 2021-07-01 101314](https://user-images.githubusercontent.com/86576588/124148118-f7892380-da54-11eb-91ef-6e52ddd7ec61.png)
+
+- A typical script in JavaScript or PHP (and the like) includes many control structures, including conditionals, loops and functions. Parts of a script may also be set to execute when events occur.
