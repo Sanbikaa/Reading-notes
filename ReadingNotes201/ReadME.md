@@ -14,5 +14,5 @@
 12. [Read: 12 - Local Storage](https://github.com/Sanbikaa/Reading-notes/blob/5075e01456ed2da84c96cc9a5c136ebdd13d0f20/ReadingNotes201/Read:%2012%20-%20Local%20Storage.md)
 13. [Read: 13a - CSS Transforms, Transitions, and Animations](https://github.com/Sanbikaa/Reading-notes/blob/5075e01456ed2da84c96cc9a5c136ebdd13d0f20/ReadingNotes201/Read:%2013a%20-%20CSS%20Transforms,%20Transitions,%20and%20Animations.mb)
 14. [Read: 13b - What Google Learned About Teams](https://github.com/Sanbikaa/Reading-notes/blob/5075e01456ed2da84c96cc9a5c136ebdd13d0f20/ReadingNotes201/Read:%2013b%20-%20What%20Google%20Learned%20About%20Teams.mb)
-15. 
+15. [Learning Journal: 14](https://github.com/Sanbikaa/Reading-notes/blob/cab0f5daf6095642400608df058187a34abf5d1d/ReadingNotes201/Learning%20Journal:%2014.md)
 
